@@ -22,3 +22,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+“”“use streamlit run main.py to run”“”
